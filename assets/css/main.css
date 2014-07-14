@@ -81,6 +81,7 @@ img#yoobee {
 
 i {
     color: #333;
+    padding-right: 10px;
 }
 
 .social i:hover {
@@ -105,14 +106,9 @@ i {
     margin-top: -3em;
 }
 
-input {
-    margin-right: 10px;
-}
-
 #update {
     border: 2px solid #8DC73F;
     background-color: #8DC73F;
-    margin-left: 10px;
 }
 
 #blue {
