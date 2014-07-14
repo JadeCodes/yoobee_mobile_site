@@ -69,14 +69,14 @@ img#yoobee {
     color: #fff;
 }
 
-.social {
+#social {
     background-color: #000;
-    height: 70px;
+    height: 80px;
     width: 100%;
     text-align: center;
-    font-size: 37px;
+    font-size: 40px;
     padding-top: 10px;
-    padding-bottom: 5px;
+    padding-bottom: 20px;
 }
 
 i {
@@ -84,7 +84,7 @@ i {
     padding-right: 10px;
 }
 
-.social i:hover {
+#social i:hover {
     color: #888;
 }
 
