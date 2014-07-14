@@ -131,6 +131,6 @@ i {
     border: 2px solid #AA4E91;
 }
 
-#purple {
+#purple:hover {
     background-color: #AA4E91;
 }
