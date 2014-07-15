@@ -61,6 +61,11 @@ img#yoobee {
     border-color: transparent;
 }
 
+#search-icon {
+    color: #888;
+    font-size: 23px;
+}
+
 .navbar-toggle {
     border: none;
 }
@@ -135,7 +140,7 @@ Mailing list sign-up section
 }
 
 input {
-    width: 200px;
+    width: 260px;
     height: 30px;
 }
 
@@ -160,12 +165,12 @@ Social icons section
     padding-bottom: 20px;
 }
 
-i {
+.social {
     color: #888;
     padding-right:15px;
 }
 
-#social i:hover {
+.social:hover {
     color: #333;
 }
 
