@@ -136,6 +136,7 @@ Mailing list sign-up section
     background-color: #8DC73F;
     font-weight: 400;
     font-size: 18px;
+    margin-top: 7px;
 }
 
 /*****************************************************************************
@@ -152,11 +153,11 @@ Social icons section
 }
 
 i {
-    color: #333;
+    color: #888;
     padding-right:15px;
 }
 
 #social i:hover {
-    color: #888;
+    color: #333;
 }
 
