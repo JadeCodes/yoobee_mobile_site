@@ -23,6 +23,7 @@ h1, h2 {
     background: url(../img/background.png) repeat;
 }
 
+
 /*****************************************************************************
 Warning message
 *****************************************************************************/
@@ -103,6 +104,12 @@ Main content section
 *****************************************************************************/
 #courses, #why-yoobee, #students {
     padding: 0;
+    padding-left: 10px;
+}
+
+.icon {
+    padding-right: 7px;
+    padding-bottom: 5px;
 }
 
 #blue {
