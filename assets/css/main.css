@@ -134,6 +134,11 @@ Mailing list sign-up section
     color: #888;
 }
 
+input {
+    width: 200px;
+    height: 30px;
+}
+
 #update {
     border: 2px solid #8DC73F;
     background-color: #8DC73F;
@@ -162,5 +167,9 @@ i {
 
 #social i:hover {
     color: #333;
+}
+
+#last-icon {
+    padding-right: 0;
 }
 
