@@ -21,9 +21,7 @@ h1, h2 {
     width: 100%;
     height: 100%;
     background: url(../img/background.png) repeat;
-    margin-left: 7px;
 }
-
 
 /*****************************************************************************
 Warning message
@@ -77,6 +75,7 @@ Hero content carousel
 *****************************************************************************/
 #hero {
     margin-top: 100px;
+    padding: 0;
 }
 
 .btn-default {
@@ -97,6 +96,10 @@ Hero content carousel
 /*****************************************************************************
 Main content section
 *****************************************************************************/
+#courses, #why-yoobee, #students {
+    padding: 0;
+}
+
 #blue {
     border: 2px solid #3EC5DD;
 }
