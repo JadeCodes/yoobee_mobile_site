@@ -98,6 +98,9 @@ Hero content carousel
     color: #fff;
 }
 
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
 
 /*****************************************************************************
 Main content section
